@@ -12,9 +12,26 @@ nav_order: 3
 
 <ul>
 
+	<li><b><i>CprE 161 - Programming Practice for Engineers</i></b>
+		<ul>
+			<li><i>Offerings:</i> [Fall 2023], [Spring 2023], [Winter 2023], [Fall 2022]</li>
+			<li><i>Description:</i> Applied introduction to computer programming for engineering students. Topics include variables and objects, control flow, iteration and looping, string processing, and file input/output. Modern software development practices, tooling, and testing. Individual programming assignments and projects.</li>
+			<li><i>Prerequisites:</i> Credit or enrollment in ENGR 160 or equivalent</li>
+		</ul>
+	</li>
+
+    <li><b><i>CprE / EE 599 - Creative Component</i></b>
+        <ul>
+            <li><i>Offerings:</i> [Fall 2023], [Fall 2022], [Fall 2021], [Fall 2020], [Fall 2019]</li>
+			<li><i>Description:</i> A 3-credit, two semester class for non-thesis MS students in the ECE department who are looking to complete their creative component. Students work with the instructor to determine project topics, review relevant literature, design an experiment, perform data analysis, write a report, and do an oral presentation / defense.</li>
+			<li><i>Prerequisites:</i> Graduate student status in ECE</li>
+        </ul>
+    </li>
+
+
 	<li><b><i>EE 285 - Problem Solving Methods and Tools for Electrical Engineering</i></b>
 		<ul>
-			<li><i>Offerings:</i> [Fall 2021]</li>
+			<li><i>Offerings:</i> [Fall 2023], [Fall 2022], [Fall 2021]</li>
 			<li><i>Description:</i> Integration of field-specific computational tools for practically solving electrical
 				engineering problems. Methods for systematically reducing problems into sequential steps compatible with
 				computer based tools. Structuring computer programs for efficiency and maintainability. Integration of
@@ -53,7 +70,7 @@ nav_order: 3
 
 	<li><b><i>CprE 480 - Graphics Processing and Architecture</i></b>
 		<ul>
-			<li><i>Offerings:</i> [Spring 2022], [Spring 2021], [Spring 2013], [Spring 2012], [Spring 2011]</li>
+			<li><i>Offerings:</i> [Spring 2023], [Spring 2022], [Spring 2021], [Spring 2013], [Spring 2012], [Spring 2011]</li>
 			<li><i>Description:</i> Introduction to hardware
 				architectures for computer graphics and their programming
 				models. System-level view, including framebuffers, video
@@ -98,7 +115,7 @@ nav_order: 3
 
 
 
-	<li><b><i>CprE 583 - Reconfigurable Computing</i></b> [<a href="classes/cpre583" target="new">old webpage</a>]
+	<li><b><i>CprE 583 - Reconfigurable Computing</i></b> [<a href="https://www.ece.iastate.edu/~zambreno/classes/cpre583" target="new">old webpage</a>]
 		<ul>
 			<li><i>Offerings:</i> [Fall 2015], [Fall 2014], [Fall 2013], [Fall 2012], [Fall 2007], [Fall 2006]</li>
 			<li><i>Description:</i> Introduction to reconfigurable computing,
@@ -114,7 +131,7 @@ nav_order: 3
 	</li>
 
 
-	<li><b><i>CprE 588 - Embedded Computer Systems</i></b> [<a href="classes/cpre588" target="new">old webpage</a>]
+	<li><b><i>CprE 588 - Embedded Computer Systems</i></b> [<a href="https://www.ece.iastate.edu/~zambreno/classes/cpre588" target="new">old webpage</a>]
 		<ul>
 			<li><i>Offerings:</i> [Spring 2010], [Spring 2009], [Spring 2008], [Spring 2007]</li>
 			<li><i>Description:</i> Design, implementation, and
