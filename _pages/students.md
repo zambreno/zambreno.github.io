@@ -15,6 +15,7 @@ horizontal: false
     <li>Ahmed Dajani, Ph.D. student</li>
     <li>Sameer Bhat, Ph.D. student</li>
     <li>Manish Manepalli, M.S. student</li>
+    <li>Bryce Snell, M.S. student</li>
     <li>Abir Mojumder, M.S. student</li>
     <li>Daeyoo Kim, M.S. student</li>
 </ul>
