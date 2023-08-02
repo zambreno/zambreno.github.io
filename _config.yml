@@ -6,6 +6,7 @@ title: Joseph Zambreno # the website title (if blank, full name will be used ins
 first_name: Joseph
 #middle_name: 
 last_name: Zambreno
+organization: Iowa State University
 email: zambreno@iastate.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 # Professor of Electrical and Computer Engineering at Iowa State University
