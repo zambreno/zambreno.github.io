@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <figure>
-    <img src="{{site.url}}/assets/img/zambreno_students.jpg" alt="Some current and former students. Email me if you'd like to be included!"/>
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_students.jpg" alt="Some current and former students. Email me if you'd like to be included!"/>
     <figcaption>Some current and former students. Email me if you'd like to be included!</figcaption>
 </figure>
 

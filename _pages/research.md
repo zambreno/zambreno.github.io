@@ -22,6 +22,6 @@ Recently, I've become more active in research related to engineering education a
 I am affiliated with the Center for Cybersecurity Innovation and Outreach ([CyIO](https://www.cyio.iastate.edu/)) at Iowa State University, as well as the Center for Ultra-Scale Computing and Information Security ([CUCIS](https://cucis.ece.northwestern.edu/)) at Northwestern University.
 
 <figure>
-  <img src="{{site.url}}/assets/img/zambreno_research.jpg" alt="What my friends and family think I do"/>
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_research.jpg" alt="What my friends and family think I do"/>
   <figcaption>What my friends and family think I do for a living.</figcaption>
 </figure>

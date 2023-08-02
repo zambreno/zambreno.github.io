@@ -10,7 +10,7 @@ nav_order: 3
 
 
 <figure>
-  <img src="{{site.url}}/assets/img/zambreno_teaching.jpg" alt="In front of a captive audience."/>
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_teaching.jpg" alt="In front of a captive audience."/>
   <figcaption>In front of a captive audience.</figcaption>
 </figure>
 
