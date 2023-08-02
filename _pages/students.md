@@ -12,22 +12,18 @@ horizontal: false
 
 <h3>Current Students</h3>
 <ul>
-
-    <li>Osama Attia, Ph.D. student</li>
-    <li>Xian Zhu, Ph.D. student</li>
-    <li>Joshua Bertram, Ph.D. student</li>
-    <li>Matt Dwyer, M.S. student</li>
-    <li>Cristian George, M.S. student</li>
+    <li>Ahmed Dajani, Ph.D. student</li>
+    <li>Sameer Bhat, Ph.D. student</li>
     <li>Manish Manepalli, M.S. student</li>
-    <li>Benjamin Welte, M.S. student</li>
-    <li>Justin Merkel, M.S. student</li>
+    <li>Abir Mojumder, M.S. student</li>
+    <li>Daeyoo Kim, M.S. student</li>
 </ul>
 
 <h3>Previous Students</h3>
 <ul>
+    <li>Joshua Bertram, Ph.D. 2022, <i>Applying FastMDP to Complex Aerospace-Related Problems</i></li>
     <li>Clinton Young, Ph.D. 2020, <i>Techniques for Utilizing Classification Towards Securing Automotive Controller
-            Area
-            Network and Machine Learning Towards the Reverse Engineering of CAN Messages</i></li>
+    Area Network and Machine Learning Towards the Reverse Engineering of CAN Messages</i></li>
     <li>Mihir Awatramani, Ph.D. 2017 (with D. Rover), <i>Workload-aware Scheduling Techniques for
             General Purpose Applications on Graphics Processing Units</i></li>
     <li>Xinying Wang, Ph.D. 2016, <i>Using Reconfigurable Computing Technology to Accelerate Matrix
@@ -46,6 +42,15 @@ horizontal: false
     <li>Song Sun, Ph.D. 2011, <i>Analysis and Acceleration of Data Mining Algorithms on High Performance Reconfigurable
             Computing Platforms</i></li>
     <li>Amit Pande, Ph.D. 2010, <i>Algorithms and Architectures for Secure Embedded Multimedia Systems</i></li>
+    <li>Cheyenne Smith, M.S. 2023, <i>An Analysis of the Arduino Software Supply Chain</i></li>
+    <li>Pawan Namagiri, M.S. 2023, <i>Peer-to-Peer Hybrid File Sharing Application</i></li>
+    <li>Rajesh Karampudi, M.S. 2023, <i>An Analysis of the Arduino Software Supply Chain</i></li>
+    <li>Veronica Torres, M.S. 2023, <i>A Survey on Non-Player Character Believability</i></li>
+    <li>Matt Dwyer, M.S. 2022, <i>GeMM Enabled Batch Ray-Triangle Intersections</i></li>
+    <li>Benjamin Welte, M.S. 2022, <i>An FPGA implementation of SipHash</i></li>
+    <li>Cristian George, M.S. 2022, <i>Towards the Reverse Engineering of DNN Structures on Heterogeneous Shared Cache
+Systems</i></li>
+    <li>Justin Merkel, M.S. 2022, <i>Quantized Recurrent Neural Networks on FPGA</i></li>
     <li>Yueyi Jiao, M.S. 2021 (with H. Ceylan), <i>Inertial-Based Pavement Surface Smoothness Measurement
             Smart Box</i></li>
     <li>Arnoldo Montoya, M.S 2020, <i>Benchmarking Kotlin and Java in Android Runtime Environment</i></li>
@@ -103,6 +108,11 @@ horizontal: false
     <li>Alex Baumgarten, M.S. 2009, <i>Preventing Integrated
             Circuit Piracy using Reconfigurable Logic Barriers</i></li>
     <li>Jesse Sathre, M.S. 2008, <i>Architectural Support for Secure and Survivable Software</i></li>
+</ul>
+
+<h3>Visiting Scholars</h3>
+<ul>
+    <li>Marina Yushkova, visiting Ph.D. student from Universidad Autónoma de Madrid, 2023.</li>
 </ul>
 
 <figure>
