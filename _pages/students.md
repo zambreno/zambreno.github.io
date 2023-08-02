@@ -9,11 +9,6 @@ display_categories: [work]
 horizontal: false
 ---
 
-<figure>
-    <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_students.jpg" alt="Some current and former students. Email me if you'd like to be included!"/>
-    <figcaption>Some current and former students. Email me if you'd like to be included!</figcaption>
-</figure>
-
 
 <h3>Current Students</h3>
 <ul>
@@ -109,3 +104,8 @@ horizontal: false
             Circuit Piracy using Reconfigurable Logic Barriers</i></li>
     <li>Jesse Sathre, M.S. 2008, <i>Architectural Support for Secure and Survivable Software</i></li>
 </ul>
+
+<figure>
+    <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_students.jpg" alt="Some current and former students. Email me if you'd like to be included!"/>
+    <figcaption>Some current and former students. Email me if you'd like to be included!</figcaption>
+</figure>

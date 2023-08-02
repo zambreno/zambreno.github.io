@@ -8,12 +8,6 @@ nav_order: 3
 ---
 
 
-
-<figure>
-  <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_teaching.jpg" alt="In front of a captive audience."/>
-  <figcaption>In front of a captive audience.</figcaption>
-</figure>
-
 <h3> Courses Taught at Iowa State</h3>
 
 <ul>
@@ -180,3 +174,9 @@ nav_order: 3
 		</ul>
 	</li>
 </ul>
+
+
+<figure>
+  <img src="{{site.url}}{{site.baseurl}}/assets/img/zambreno_teaching.jpg" alt="In front of a captive audience."/>
+  <figcaption>In front of a captive audience.</figcaption>
+</figure>
