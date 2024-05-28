@@ -45,7 +45,7 @@ horizontal: false
     <li>Amit Pande, Ph.D. 2010, <i>Algorithms and Architectures for Secure Embedded Multimedia Systems</i></li>
     <li>Cheyenne Smith, M.S. 2023, <i>An Analysis of the Arduino Software Supply Chain</i></li>
     <li>Pawan Namagiri, M.S. 2023, <i>Peer-to-Peer Hybrid File Sharing Application</i></li>
-    <li>Rajesh Karampudi, M.S. 2023, <i>An Analysis of the Arduino Software Supply Chain</i></li>
+    <li>Rajesh Karampudi, M.S. 2023, <i>Loop Categorization Analysis for Memory Leak Detection in the Linux Kernel</i></li>
     <li>Veronica Torres, M.S. 2023, <i>A Survey on Non-Player Character Believability</i></li>
     <li>Matt Dwyer, M.S. 2022, <i>GeMM Enabled Batch Ray-Triangle Intersections</i></li>
     <li>Benjamin Welte, M.S. 2022, <i>An FPGA implementation of SipHash</i></li>
