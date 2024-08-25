@@ -14,10 +14,9 @@ horizontal: false
 <ul>
     <li>Ahmed Dajani, Ph.D. student</li>
     <li>Sameer Bhat, Ph.D. student</li>
-    <li>Manish Manepalli, M.S. student</li>
-    <li>Bryce Snell, M.S. student</li>
-    <li>Abir Mojumder, M.S. student</li>
-    <li>Daeyoo Kim, M.S. student</li>
+    <li>Juno Robertson, M.S. student</li>
+    <li>Yashas Suresh, M.S. student</li>
+    <li>Chandrakala Jadaldinni, M.S. student</li>
 </ul>
 
 <h3>Previous Students</h3>
@@ -43,6 +42,11 @@ horizontal: false
     <li>Song Sun, Ph.D. 2011, <i>Analysis and Acceleration of Data Mining Algorithms on High Performance Reconfigurable
             Computing Platforms</i></li>
     <li>Amit Pande, Ph.D. 2010, <i>Algorithms and Architectures for Secure Embedded Multimedia Systems</i></li>
+    <li>James Bonner, M.S. 2024, <i>Cognitive Radio Network Startup Transient Sensing</i></li>
+    <li>Bryce Snell, M.S. 2024, <i>Implementing a big.LITTLE Architecture with Architecturally Diverse
+Cores</i></li>
+    <li>Abir Mojumder, M.S. 2023, <i>ROP Gadget Generation on the Xtensa LX7</i></li>
+    <li>Daeyoo Kim, M.S. 2023, <i>5G Throughput Prediction Using Machine Learning</i></li>
     <li>Cheyenne Smith, M.S. 2023, <i>An Analysis of the Arduino Software Supply Chain</i></li>
     <li>Pawan Namagiri, M.S. 2023, <i>Peer-to-Peer Hybrid File Sharing Application</i></li>
     <li>Rajesh Karampudi, M.S. 2023, <i>Loop Categorization Analysis for Memory Leak Detection in the Linux Kernel</i></li>

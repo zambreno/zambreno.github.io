@@ -12,17 +12,26 @@ nav_order: 3
 
 <ul>
 
-	<li><b><i>CprE 161 - Programming Practice for Engineers</i></b>
+	<li><b><i>CybE 2310 - Cyber Security Concepts and Tools</i></b>
 		<ul>
-			<li><i>Offerings:</i> [Fall 2023], [Spring 2023], [Winter 2023], [Fall 2022]</li>
+			<li><i>Offerings:</i> [Fall 2024]</li>
+			<li><i>Description:</i> Basic concepts of practical computer and Internet security and the tools used to protect and attack systems and networks. Computer and network security methods including: user authentication, access control, firewalls, intrusion detection, use of vulnerability assessment tools and methods, and penetration testing. Ethics and legal issues in cyber security will also be covered. Laboratory experiments and exercises including evaluating systems for vulnerabilities, understanding potential exploits of the systems, and defenses for the systems.</li>
+			<li><i>Prerequisites:</i> CybE 2300</li>
+		</ul>
+	</li>
+
+
+	<li><b><i>CprE 1610 - Programming Practice for Engineers</i></b>
+		<ul>
+			<li><i>Offerings:</i> [Fall 2024], [Spring 2024], [Fall 2023], [Spring 2023], [Winter 2023], [Fall 2022]</li>
 			<li><i>Description:</i> Applied introduction to computer programming for engineering students. Topics include variables and objects, control flow, iteration and looping, string processing, and file input/output. Modern software development practices, tooling, and testing. Individual programming assignments and projects.</li>
 			<li><i>Prerequisites:</i> Credit or enrollment in ENGR 160 or equivalent</li>
 		</ul>
 	</li>
 
-    <li><b><i>CprE / EE 599 - Creative Component</i></b>
+    <li><b><i>CprE / EE 5990 - Creative Component</i></b>
         <ul>
-            <li><i>Offerings:</i> [Fall 2023], [Fall 2022], [Fall 2021], [Fall 2020], [Fall 2019]</li>
+            <li><i>Offerings:</i> [Fall 2024], [Spring 2024], [Fall 2023], [Fall 2022], [Fall 2021], [Fall 2020], [Fall 2019]</li>
 			<li><i>Description:</i> A 3-credit, two semester class for non-thesis MS students in the ECE department who are looking to complete their creative component. Students work with the instructor to determine project topics, review relevant literature, design an experiment, perform data analysis, write a report, and do an oral presentation / defense.</li>
 			<li><i>Prerequisites:</i> Graduate student status in ECE</li>
         </ul>
@@ -68,7 +77,7 @@ nav_order: 3
 
 
 
-	<li><b><i>CprE 480 - Graphics Processing and Architecture</i></b>
+	<li><b><i>CprE 480 / 580 - Graphics Processing and Architecture</i></b>
 		<ul>
 			<li><i>Offerings:</i> [Spring 2023], [Spring 2022], [Spring 2021], [Spring 2013], [Spring 2012], [Spring 2011]</li>
 			<li><i>Description:</i> Introduction to hardware
